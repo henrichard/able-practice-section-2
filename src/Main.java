@@ -8,7 +8,7 @@ public class Main {
 
     private static void mainMethodShowInfo() {
 
-        System.out.println("DELETE me");
+        System.out.println("NEW changes made");
     }
 
 }
